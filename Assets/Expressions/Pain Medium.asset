@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eb185102af884175b7c40432d66ce6f, type: 3}
+  m_Name: Pain Medium
+  m_EditorClassIdentifier: 
+  ExpresionName: Pain m
+  BlendShapeRanges:
+  - BlendShape: 2
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 3
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 4
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 0
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 1
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 20
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 21
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 18
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 19
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 40
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 49
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 50
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 47
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 48
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 33
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 34
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 27
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 28
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 35
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 36
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 45
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 46
+    LowBound: 0
+    UpperBound: 0
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 24
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 8
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  - BlendShape: 9
+    LowBound: 0.3
+    UpperBound: 1
+    DetectionCount: 0
+    Action:
+      MethodName: 
+      Delay: 0
+  Action:
+    MethodName: 
+    Delay: 0
