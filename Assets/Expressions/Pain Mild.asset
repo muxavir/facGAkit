@@ -15,28 +15,28 @@ MonoBehaviour:
   ExpresionName: Pain Mild
   BlendShapeRanges:
   - BlendShape: 8
-    LowBound: 0
-    UpperBound: 0.4
+    LowBound: 0.2
+    UpperBound: 10
     DetectionCount: 0
     Action:
       MethodName: 
       Delay: 0
   - BlendShape: 9
-    LowBound: 0.4
-    UpperBound: 1
+    LowBound: 0.2
+    UpperBound: 10
     DetectionCount: 0
     Action:
       MethodName: 
       Delay: 0
   - BlendShape: 49
-    LowBound: 0.4
+    LowBound: 0.2
     UpperBound: 1
     DetectionCount: 0
     Action:
       MethodName: 
       Delay: 0
   - BlendShape: 50
-    LowBound: 0.4
+    LowBound: 0.2
     UpperBound: 1
     DetectionCount: 0
     Action:
